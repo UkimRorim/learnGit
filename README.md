@@ -1,0 +1,3 @@
+﻿# learnGit
+
+Git learning project.
